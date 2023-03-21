@@ -1,0 +1,11 @@
+Data goes in and very smoothly with referential transparency and where we can make validations.
+
+We see all changing behavior on the user client browser using the HTML, Javascript, and Typescript frameworks.
+
+For security related concerns, it goes on the API, but is also continually validated from the UI app. Minimal changes intended.
+
+We see the API backend associated with the server that interacts with those file types, those file types that the user browser uses to interact, built in usually with the framework with HTML, JS, and TS. In that API layer of that framework, we see referential transparency, and where it is very simply structuring and passing data to the API.
+
+We see data that goes out to an API.
+
+We see data retrieval from API and CDN device.

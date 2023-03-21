@@ -1,0 +1,9 @@
+For more information, see the .txt files for the actual device use cases. Each one may have different values within. They are meant to just be project placeholders but is being used as documentation.
+
+API - Application Programming Interface
+
+UI - User Interface
+
+Firewall - Network Security Network Device
+
+CDN - Content Delivery Network
